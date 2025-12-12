@@ -42,7 +42,7 @@ cd frontend
 npm run dev
 ```
 
-##Seed Database in from root
+## Seed Database in from root
 ```
 python -m backend.seed
 ```
